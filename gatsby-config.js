@@ -11,12 +11,12 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-source-datocms`,
-      options: { apiToken: process.env.DATO_API_TOKEN },
+      options: { apiToken: '28e154a22f68eeb0cb804ad28bf4bd' },
     },
     {
       resolve: 'gatsby-plugin-snipcart',
       options: {
-        apiKey: 'OWE3MmZmMjQtNTk3Yi00OThhLWEwMmUtZDY4ZWM4NzIwYzZiNjM2NjM0Mzc1NzE0MTUwNzI1',
+        apiKey: 'ZWNiZWM3NzctY2EzYS00ZGU0LTk5YzgtYTU5Zjc1M2E3MTdjNjM3MDI4MzYzNjY4NjkxMjk5',
         autopop: true
       }
     },
